@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { User, ShoppingBag } from 'lucide-react';
+import React from "react";
+import { Link } from "react-router-dom";
+import { User, ShoppingBag } from "lucide-react";
 
 const Header = () => {
   return (
@@ -25,7 +25,7 @@ const Header = () => {
           </nav>
 
           <div className="nav-icons">
-            <Link to="/account" className="nav-icon-link" title="Account">
+            <Link to="/login" className="nav-icon-link" title="Account">
               <User size={22} strokeWidth={1.8} />
             </Link>
 
