@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import LoginPage from './pages/LoginPages.jsx'
 import Header from './components/Header'
 import Footer from './components/Footer'
 
@@ -35,7 +36,7 @@ function App() {
             <Route path="/new-arrival" element={<NewArrivalsPage />} />
             <Route path="/cart" element={<CartPage />} />
             <Route path="/ai-stylist" element={<AIStylistPage />} />
-            
+            <Route path="/login" element={<LoginPage />} />
             <Route path="*" element={
               <div className="container" style={{ textAlign: 'center', padding: '100px 0', minHeight: '50vh' }}>
                 <h2>Page under construction.</h2>
