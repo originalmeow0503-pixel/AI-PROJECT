@@ -1,0 +1,43 @@
+Fashion Recommendation Dataset — Data Dictionary
+
+Main file:
+- fashion_recommendation_products_dataset.csv
+
+Purpose:
+- Product catalog for clothing ecommerce
+- KNN / similarity recommendation input
+- Backend API filtering and recommendation output
+- Frontend product-card rendering
+
+Important columns:
+- product_id: unique product id
+- product_name: display name for UI
+- brand: product brand
+- gender: Women / Men / Unisex
+- recommended_age_group: Teen / Young Adult / Adult
+- category, subcategory: core browsing hierarchy
+- occasion: Casual / Party / Wedding / Office / etc.
+- style: core style preference field for recommendation
+- primary_color, secondary_color: useful for user filters
+- season: useful for seasonal recommendation
+- fabric, fit, sleeve_type, neckline, pattern, embellishment: product attributes
+- final_price_inr + budget_segment: budget-aware recommendations
+- rating, rating_count, popularity_score, trend_score: ranking features
+- stock_qty: can be used to exclude low-stock products
+- sustainable, bestseller: useful extra filters
+- search_tags: text-based fallback retrieval
+- image_url: placeholder product image link
+- product_description: text for semantic or hybrid retrieval
+
+Suggested minimal backend input:
+gender, age_group, occasion, category, style_preference, preferred_color, budget_segment, season
+
+Suggested ranking logic:
+1) hard-filter by gender/category/occasion if provided
+2) score by matches on style/color/season/age group
+3) rank by trend_score, popularity_score, rating
+4) exclude stock_qty <= 0
+
+Bonus file:
+- fashion_recommendation_api_test_queries.csv
+Use this for frontend form testing or Postman samples.

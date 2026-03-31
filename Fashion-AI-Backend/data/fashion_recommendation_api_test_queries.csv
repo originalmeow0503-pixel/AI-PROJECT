@@ -1,0 +1,301 @@
+query_id,gender,age_group,occasion,category,style_preference,preferred_color,budget_segment,season,expected_subcategory_hint
+1,Women,Adult,Office,Ethnic Wear,Traditional,Grey,Premium,Winter,Salwar Suit
+2,Men,Teen,Vacation,Shirts,Formal,Purple,Medium,Summer,Casual Shirt
+3,Unisex,Teen,Casual,Activewear,Minimal,Teal,Medium,Winter,Training Tee
+4,Women,Young Adult,Formal,Dresses,Western,Brown,Premium,All Season,A-Line Dress
+5,Women,Adult,Casual,Dresses,Boho,Navy,Premium,Autumn,Wrap Dress
+6,Women,Adult,Vacation,Bottomwear,Streetwear,Olive,Medium,Monsoon,Leggings
+7,Men,Adult,Wedding,Ethnic Wear,Traditional,Turquoise,Premium,Winter,Sherwani
+8,Men,Teen,Winterwear,Outerwear,Streetwear,White,Medium,Summer,Hoodie
+9,Women,Adult,Formal,Dresses,Boho,Peach,Medium,Autumn,Shirt Dress
+10,Men,Teen,Casual,T-Shirts,Streetwear,Brown,Medium,All Season,Henley T-Shirt
+11,Men,Adult,College,T-Shirts,Sporty,Black,Medium,Winter,Polo T-Shirt
+12,Women,Teen,Wedding,Ethnic Wear,Ethnic,Lavender,Premium,All Season,Lehenga
+13,Men,Adult,Office,Outerwear,Streetwear,Mustard,Premium,Monsoon,Hoodie
+14,Men,Young Adult,Travel,T-Shirts,Minimal,Olive,Medium,Spring,Henley T-Shirt
+15,Men,Teen,Gym,T-Shirts,Streetwear,Red,Medium,Spring,Crew Neck Tee
+16,Men,Adult,Wedding,Shirts,Classic,White,Medium,Winter,Formal Shirt
+17,Men,Teen,Casual,Shirts,Formal,Olive,Medium,Summer,Linen Shirt
+18,Women,Teen,Festive,Ethnic Wear,Traditional,Olive,Premium,Autumn,Salwar Suit
+19,Men,Adult,Office,Bottomwear,Minimal,Orange,Premium,Spring,Jeans
+20,Women,Teen,College,Tops,Boho,Teal,Low,Spring,Crop Top
+21,Unisex,Adult,Gym,Activewear,Athleisure,White,Low,Autumn,Yoga Top
+22,Women,Young Adult,Casual,Tops,Smart Casual,Olive,Low,Spring,Crop Top
+23,Men,Adult,Vacation,Shirts,Minimal,Maroon,Medium,Summer,Printed Shirt
+24,Women,Young Adult,Office,Outerwear,Streetwear,Maroon,Low,Autumn,Blazer
+25,Women,Adult,Office,Ethnic Wear,Traditional,Navy,Premium,Spring,Salwar Suit
+26,Women,Young Adult,College,Tops,Minimal,Yellow,Medium,Monsoon,Kurti Top
+27,Men,Teen,Party,Shirts,Minimal,Black,Medium,Spring,Oxford Shirt
+28,Men,Adult,Vacation,Shirts,Formal,Yellow,Medium,Autumn,Linen Shirt
+29,Men,Teen,Casual,Bottomwear,Streetwear,Mustard,Medium,Monsoon,Shorts
+30,Men,Young Adult,Casual,Outerwear,Smart Casual,Lavender,Premium,Monsoon,Hoodie
+31,Women,Adult,Office,Tops,Smart Casual,Teal,Low,Summer,Shirt
+32,Men,Teen,Travel,Bottomwear,Sporty,Red,Medium,Monsoon,Jeans
+33,Women,Adult,Vacation,Dresses,Boho,Peach,Premium,Summer,Shirt Dress
+34,Men,Teen,Casual,Outerwear,Smart Casual,Pink,Premium,Monsoon,Sweatshirt
+35,Women,Young Adult,Wedding,Dresses,Boho,Black,Premium,Winter,A-Line Dress
+36,Women,Young Adult,Casual,Bottomwear,Minimal,Blue,Medium,Autumn,Leggings
+37,Women,Adult,Wedding,Dresses,Glam,Teal,Medium,Spring,Mini Dress
+38,Women,Young Adult,Casual,Ethnic Wear,Elegant,White,Premium,Monsoon,Lehenga
+39,Women,Young Adult,Wedding,Ethnic Wear,Traditional,Turquoise,Low,Spring,Anarkali
+40,Unisex,Teen,Travel,Activewear,Athleisure,Turquoise,Medium,Winter,Running Jacket
+41,Women,Teen,Winterwear,Outerwear,Chic,Peach,Low,Spring,Shrug
+42,Women,Adult,Wedding,Ethnic Wear,Traditional,Turquoise,Premium,Summer,Salwar Suit
+43,Women,Teen,Party,Dresses,Elegant,Lavender,Premium,Spring,Wrap Dress
+44,Men,Teen,College,Bottomwear,Streetwear,Blue,Low,Summer,Joggers
+45,Women,Young Adult,Vacation,Dresses,Boho,Purple,Medium,Winter,Shirt Dress
+46,Women,Young Adult,Wedding,Dresses,Boho,Black,Premium,Winter,A-Line Dress
+47,Men,Teen,Gym,Bottomwear,Minimal,Teal,Medium,All Season,Joggers
+48,Women,Teen,Vacation,Dresses,Chic,Brown,Medium,All Season,Mini Dress
+49,Men,Teen,Gym,Bottomwear,Sporty,Orange,Low,Winter,Shorts
+50,Unisex,Adult,Gym,Activewear,Sporty,Grey,Medium,Winter,Track Pants
+51,Women,Teen,College,Bottomwear,Minimal,Blue,Medium,Summer,Jeans
+52,Women,Young Adult,Festive,Dresses,Minimal,Green,Premium,Winter,Bodycon Dress
+53,Women,Adult,Casual,Bottomwear,Western,Peach,Medium,Summer,Skirt
+54,Women,Young Adult,Formal,Dresses,Western,Brown,Medium,Monsoon,Gown
+55,Women,Teen,Festive,Ethnic Wear,Traditional,Pink,Premium,Summer,Anarkali
+56,Women,Teen,Vacation,Dresses,Elegant,Blue,Medium,All Season,A-Line Dress
+57,Men,Teen,Casual,Bottomwear,Streetwear,Peach,Low,Autumn,Trousers
+58,Women,Teen,Winterwear,Outerwear,Chic,Peach,Low,Spring,Shrug
+59,Women,Adult,Office,Tops,Boho,Orange,Medium,Monsoon,Shirt
+60,Men,Teen,Vacation,T-Shirts,Minimal,Lavender,Medium,Winter,Henley T-Shirt
+61,Women,Young Adult,Party,Dresses,Elegant,Lavender,Medium,Winter,Maxi Dress
+62,Women,Young Adult,Formal,Dresses,Elegant,Beige,Premium,Winter,Wrap Dress
+63,Men,Teen,College,Bottomwear,Minimal,Grey,Medium,Spring,Shorts
+64,Men,Teen,Office,Shirts,Classic,Navy,Medium,Autumn,Linen Shirt
+65,Women,Young Adult,Office,Bottomwear,Streetwear,Navy,Medium,Autumn,Leggings
+66,Women,Young Adult,Office,Ethnic Wear,Elegant,Pink,Medium,Autumn,Salwar Suit
+67,Men,Teen,Gym,Bottomwear,Classic,Grey,Medium,All Season,Trousers
+68,Women,Teen,Wedding,Dresses,Minimal,Green,Low,Summer,Shirt Dress
+69,Men,Young Adult,Casual,Shirts,Streetwear,Green,Medium,Summer,Linen Shirt
+70,Men,Adult,Wedding,Ethnic Wear,Ethnic,Lavender,Premium,Summer,Sherwani
+71,Women,Teen,College,Bottomwear,Minimal,Orange,Medium,All Season,Trousers
+72,Men,Young Adult,Casual,Shirts,Streetwear,Teal,Medium,Autumn,Linen Shirt
+73,Women,Young Adult,Vacation,Dresses,Boho,Grey,Premium,Spring,Shirt Dress
+74,Women,Teen,Wedding,Ethnic Wear,Ethnic,Yellow,Premium,Monsoon,Anarkali
+75,Men,Young Adult,College,Bottomwear,Sporty,Beige,Medium,All Season,Chinos
+76,Men,Adult,Travel,Outerwear,Minimal,Brown,Premium,Monsoon,Jacket
+77,Women,Young Adult,Wedding,Ethnic Wear,Ethnic,Lavender,Premium,Monsoon,Lehenga
+78,Unisex,Young Adult,Gym,Activewear,Minimal,Black,Medium,All Season,Sports Shorts
+79,Men,Young Adult,College,Bottomwear,Sporty,Purple,Medium,All Season,Trousers
+80,Men,Young Adult,Party,Shirts,Minimal,Maroon,Medium,Monsoon,Oxford Shirt
+81,Women,Young Adult,Vacation,Bottomwear,Smart Casual,Maroon,Medium,Winter,Skirt
+82,Women,Teen,Travel,Outerwear,Smart Casual,Black,Premium,Winter,Sweater
+83,Women,Teen,Casual,Dresses,Elegant,Peach,Premium,Spring,Bodycon Dress
+84,Women,Adult,Vacation,Tops,Chic,Pink,Low,Winter,Tank Top
+85,Men,Young Adult,Wedding,Ethnic Wear,Fusion,Navy,Medium,Spring,Kurta Set
+86,Men,Adult,Travel,T-Shirts,Streetwear,Lavender,Low,Winter,Oversized Tee
+87,Men,Young Adult,Casual,Bottomwear,Minimal,Black,Medium,Spring,Shorts
+88,Men,Teen,Office,Bottomwear,Smart Casual,Blue,Medium,Summer,Trousers
+89,Men,Adult,Travel,Bottomwear,Minimal,Grey,Low,Summer,Jeans
+90,Women,Young Adult,Festive,Ethnic Wear,Fusion,Black,Medium,Summer,Lehenga
+91,Women,Young Adult,Party,Dresses,Elegant,Lavender,Medium,Winter,Maxi Dress
+92,Men,Adult,Travel,Bottomwear,Minimal,Grey,Low,Summer,Jeans
+93,Women,Young Adult,Vacation,Dresses,Minimal,Turquoise,Medium,Spring,Mini Dress
+94,Men,Teen,Casual,T-Shirts,Streetwear,Brown,Medium,All Season,Henley T-Shirt
+95,Women,Young Adult,Party,Dresses,Chic,Green,Medium,Summer,Midi Dress
+96,Women,Adult,Office,Tops,Boho,Brown,Low,Summer,Blouse
+97,Women,Adult,Festive,Dresses,Glam,Yellow,Low,Spring,Shirt Dress
+98,Women,Teen,Travel,Outerwear,Chic,Blue,Premium,Autumn,Shrug
+99,Women,Teen,Casual,Bottomwear,Streetwear,Pink,Medium,Summer,Jeans
+100,Men,Young Adult,Vacation,Shirts,Streetwear,Beige,Medium,Summer,Linen Shirt
+101,Women,Adult,Party,Tops,Smart Casual,Peach,Medium,All Season,Tunic
+102,Men,Young Adult,Vacation,T-Shirts,Streetwear,Olive,Medium,All Season,Henley T-Shirt
+103,Women,Young Adult,Formal,Dresses,Chic,Pink,Medium,All Season,Gown
+104,Women,Young Adult,Office,Bottomwear,Western,Yellow,Medium,Spring,Shorts
+105,Unisex,Teen,Travel,Activewear,Minimal,Mustard,Low,All Season,Sports Shorts
+106,Men,Young Adult,Winterwear,Outerwear,Streetwear,Pink,Medium,Spring,Sweatshirt
+107,Women,Teen,Casual,Ethnic Wear,Ethnic,Navy,Medium,Autumn,Anarkali
+108,Men,Teen,Casual,T-Shirts,Streetwear,Lavender,Low,Autumn,Graphic Tee
+109,Women,Teen,Office,Outerwear,Minimal,Maroon,Low,All Season,Shrug
+110,Men,Adult,Office,Outerwear,Minimal,Yellow,Medium,Monsoon,Jacket
+111,Women,Teen,Office,Ethnic Wear,Elegant,Pink,Low,All Season,Kurta Set
+112,Women,Adult,College,Tops,Minimal,Blue,Medium,All Season,Tank Top
+113,Men,Young Adult,Casual,Shirts,Streetwear,Orange,Medium,Summer,Casual Shirt
+114,Women,Young Adult,Casual,Ethnic Wear,Elegant,Beige,Medium,Autumn,Anarkali
+115,Men,Teen,Vacation,Shirts,Minimal,Red,Low,All Season,Casual Shirt
+116,Women,Teen,Vacation,Dresses,Chic,Pink,Medium,Autumn,Midi Dress
+117,Women,Teen,Party,Tops,Boho,Mustard,Low,Winter,Peplum Top
+118,Women,Teen,Office,Ethnic Wear,Elegant,Mustard,Premium,All Season,Salwar Suit
+119,Women,Young Adult,Casual,Dresses,Boho,Maroon,Low,Spring,A-Line Dress
+120,Men,Teen,Travel,Bottomwear,Minimal,Blue,Premium,Spring,Joggers
+121,Women,Teen,Vacation,Tops,Smart Casual,Yellow,Medium,Spring,Crop Top
+122,Women,Adult,Casual,Bottomwear,Smart Casual,Black,Medium,All Season,Trousers
+123,Women,Teen,Travel,Outerwear,Streetwear,Grey,Medium,Winter,Sweater
+124,Men,Teen,Casual,Shirts,Streetwear,Blue,Medium,Winter,Formal Shirt
+125,Women,Young Adult,Wedding,Ethnic Wear,Fusion,Blue,Premium,Autumn,Anarkali
+126,Men,Teen,College,Bottomwear,Sporty,Pink,Medium,Autumn,Trousers
+127,Men,Young Adult,Party,Shirts,Minimal,White,Medium,Winter,Oxford Shirt
+128,Women,Teen,Wedding,Dresses,Elegant,Blue,Medium,Spring,Mini Dress
+129,Women,Young Adult,Festive,Dresses,Minimal,Green,Premium,Winter,Bodycon Dress
+130,Men,Adult,College,Bottomwear,Sporty,Black,Premium,All Season,Trousers
+131,Men,Teen,Vacation,T-Shirts,Casual,Pink,Medium,Spring,Polo T-Shirt
+132,Women,Teen,Party,Tops,Boho,Purple,Medium,Monsoon,Tunic
+133,Unisex,Young Adult,Gym,Activewear,Sporty,Navy,Low,Autumn,Yoga Top
+134,Men,Adult,Travel,Bottomwear,Sporty,Mustard,Premium,Summer,Shorts
+135,Women,Teen,Festive,Dresses,Minimal,Yellow,Medium,Monsoon,Maxi Dress
+136,Men,Young Adult,Vacation,T-Shirts,Minimal,Yellow,Low,Spring,Crew Neck Tee
+137,Women,Teen,Wedding,Ethnic Wear,Elegant,Maroon,Premium,Summer,Anarkali
+138,Unisex,Young Adult,Casual,Activewear,Sporty,Lavender,Low,Spring,Track Pants
+139,Men,Young Adult,Vacation,Shirts,Streetwear,Peach,Low,Spring,Formal Shirt
+140,Men,Young Adult,Casual,Shirts,Streetwear,Pink,Premium,Summer,Casual Shirt
+141,Women,Adult,College,Bottomwear,Streetwear,Teal,Low,Summer,Leggings
+142,Women,Young Adult,Festive,Ethnic Wear,Ethnic,Purple,Medium,All Season,Kurta
+143,Men,Teen,Office,Bottomwear,Smart Casual,Brown,Medium,All Season,Jeans
+144,Men,Teen,Casual,Shirts,Minimal,Grey,Medium,Winter,Linen Shirt
+145,Men,Adult,Festive,Ethnic Wear,Fusion,Lavender,Premium,All Season,Kurta Set
+146,Women,Young Adult,Travel,Outerwear,Minimal,Beige,Premium,Spring,Blazer
+147,Men,Young Adult,Travel,Outerwear,Classic,White,Low,All Season,Blazer
+148,Men,Young Adult,Traditional,Ethnic Wear,Fusion,Orange,Medium,Monsoon,Nehru Jacket
+149,Women,Young Adult,Festive,Ethnic Wear,Elegant,Peach,Premium,Autumn,Lehenga
+150,Women,Teen,Office,Tops,Smart Casual,Green,Medium,Monsoon,Kurti Top
+151,Men,Young Adult,Office,Bottomwear,Classic,Maroon,Medium,Autumn,Joggers
+152,Women,Teen,Party,Tops,Chic,Navy,Medium,Spring,Shirt
+153,Men,Teen,Casual,T-Shirts,Casual,Turquoise,Medium,Spring,Oversized Tee
+154,Women,Teen,Vacation,Dresses,Chic,Brown,Medium,All Season,Mini Dress
+155,Women,Young Adult,Wedding,Ethnic Wear,Traditional,Lavender,Premium,Monsoon,Kurta
+156,Women,Young Adult,Festive,Dresses,Elegant,Maroon,Medium,Monsoon,Midi Dress
+157,Men,Adult,Office,Outerwear,Streetwear,Green,Medium,All Season,Blazer
+158,Women,Teen,Party,Tops,Minimal,White,Medium,Autumn,Crop Top
+159,Men,Young Adult,Casual,Shirts,Smart Casual,Orange,Medium,All Season,Printed Shirt
+160,Women,Young Adult,Office,Tops,Minimal,Navy,Low,All Season,Shirt
+161,Men,Adult,Gym,T-Shirts,Minimal,Beige,Low,Summer,Graphic Tee
+162,Women,Teen,Casual,Dresses,Glam,Beige,Premium,All Season,Mini Dress
+163,Men,Young Adult,Vacation,Shirts,Classic,Brown,Medium,Monsoon,Oxford Shirt
+164,Women,Teen,Office,Ethnic Wear,Elegant,Turquoise,Premium,Winter,Salwar Suit
+165,Men,Young Adult,Gym,T-Shirts,Streetwear,Brown,Medium,Winter,Polo T-Shirt
+166,Unisex,Young Adult,Gym,Activewear,Athleisure,Green,Low,Summer,Running Jacket
+167,Women,Teen,Party,Dresses,Western,Green,Medium,Summer,Mini Dress
+168,Women,Young Adult,Festive,Ethnic Wear,Traditional,Mustard,Premium,All Season,Salwar Suit
+169,Men,Adult,Vacation,T-Shirts,Streetwear,Peach,Medium,Summer,Graphic Tee
+170,Men,Teen,Travel,Bottomwear,Classic,Green,Medium,Spring,Joggers
+171,Women,Young Adult,Party,Dresses,Elegant,Peach,Premium,Spring,Bodycon Dress
+172,Women,Adult,Wedding,Ethnic Wear,Ethnic,Orange,Premium,Monsoon,Salwar Suit
+173,Men,Adult,Office,Bottomwear,Classic,Navy,Low,Monsoon,Chinos
+174,Women,Young Adult,College,Bottomwear,Streetwear,Red,Medium,Summer,Skirt
+175,Women,Teen,Vacation,Tops,Smart Casual,Beige,Medium,Spring,Tunic
+176,Men,Teen,Casual,Bottomwear,Minimal,Navy,Medium,Summer,Chinos
+177,Women,Adult,Office,Bottomwear,Smart Casual,Lavender,Medium,Autumn,Palazzos
+178,Women,Young Adult,Vacation,Dresses,Glam,Lavender,Medium,Winter,Bodycon Dress
+179,Men,Young Adult,Winterwear,Outerwear,Classic,Brown,Low,Summer,Hoodie
+180,Women,Adult,Vacation,Tops,Minimal,Turquoise,Medium,Monsoon,Kurti Top
+181,Women,Adult,Casual,Outerwear,Streetwear,Purple,Premium,Autumn,Cardigan
+182,Men,Adult,College,Bottomwear,Minimal,Peach,Medium,Winter,Chinos
+183,Women,Young Adult,College,Bottomwear,Western,Beige,Low,All Season,Palazzos
+184,Men,Adult,Wedding,Shirts,Formal,Blue,Medium,Autumn,Linen Shirt
+185,Men,Young Adult,Casual,T-Shirts,Sporty,Mustard,Medium,All Season,Crew Neck Tee
+186,Women,Adult,Office,Tops,Minimal,Turquoise,Low,Monsoon,Crop Top
+187,Men,Adult,Gym,T-Shirts,Casual,Turquoise,Medium,Spring,Polo T-Shirt
+188,Women,Young Adult,Office,Ethnic Wear,Traditional,Blue,Medium,Winter,Saree
+189,Women,Teen,Casual,Ethnic Wear,Traditional,Brown,Premium,Summer,Kurta
+190,Women,Young Adult,Festive,Dresses,Minimal,Lavender,Medium,Winter,A-Line Dress
+191,Men,Adult,Travel,Outerwear,Classic,Black,Medium,Winter,Sweatshirt
+192,Women,Adult,Casual,Dresses,Glam,Yellow,Medium,Spring,A-Line Dress
+193,Men,Young Adult,Vacation,Shirts,Formal,Maroon,Low,Autumn,Linen Shirt
+194,Women,Young Adult,Office,Ethnic Wear,Fusion,Mustard,Medium,Spring,Lehenga
+195,Men,Young Adult,Wedding,Shirts,Minimal,Black,Low,All Season,Oxford Shirt
+196,Men,Young Adult,Casual,Bottomwear,Smart Casual,Pink,Low,Monsoon,Jeans
+197,Women,Young Adult,Office,Bottomwear,Western,Purple,Medium,Winter,Skirt
+198,Men,Young Adult,Winterwear,Outerwear,Classic,Brown,Low,Summer,Hoodie
+199,Men,Adult,Casual,T-Shirts,Sporty,Grey,Medium,Autumn,Henley T-Shirt
+200,Men,Teen,Casual,Shirts,Streetwear,Pink,Medium,Spring,Oxford Shirt
+201,Women,Young Adult,Casual,Tops,Smart Casual,Red,Medium,Autumn,Blouse
+202,Men,Teen,Party,Shirts,Streetwear,Grey,Premium,Summer,Formal Shirt
+203,Men,Adult,Vacation,Shirts,Streetwear,Grey,Medium,Winter,Linen Shirt
+204,Women,Young Adult,Vacation,Dresses,Elegant,Purple,Premium,All Season,Shirt Dress
+205,Women,Young Adult,Festive,Ethnic Wear,Fusion,Green,Premium,All Season,Kurta
+206,Women,Teen,Casual,Tops,Boho,Navy,Medium,Winter,Crop Top
+207,Women,Teen,Wedding,Ethnic Wear,Elegant,Maroon,Premium,Spring,Kurta Set
+208,Women,Adult,Festive,Ethnic Wear,Fusion,Peach,Premium,All Season,Saree
+209,Women,Adult,Wedding,Ethnic Wear,Elegant,Maroon,Medium,Autumn,Kurta Set
+210,Men,Adult,Gym,T-Shirts,Minimal,Navy,Low,Summer,Polo T-Shirt
+211,Women,Teen,Festive,Dresses,Boho,Yellow,Medium,All Season,Mini Dress
+212,Women,Adult,Casual,Tops,Chic,Olive,Low,All Season,Kurti Top
+213,Women,Adult,College,Bottomwear,Streetwear,Blue,Medium,Spring,Leggings
+214,Women,Teen,Formal,Dresses,Western,Red,Premium,Monsoon,Bodycon Dress
+215,Men,Teen,Gym,T-Shirts,Minimal,Yellow,Medium,Autumn,Oversized Tee
+216,Men,Young Adult,Winterwear,Outerwear,Sporty,Mustard,Medium,Winter,Sweatshirt
+217,Women,Adult,Office,Bottomwear,Western,Orange,Low,Spring,Trousers
+218,Men,Teen,College,Bottomwear,Smart Casual,Maroon,Premium,Winter,Joggers
+219,Women,Young Adult,Festive,Dresses,Glam,Brown,Medium,Summer,Mini Dress
+220,Women,Young Adult,Festive,Dresses,Boho,Pink,Premium,Spring,Midi Dress
+221,Women,Adult,Office,Tops,Boho,Maroon,Medium,Winter,Blouse
+222,Women,Adult,Wedding,Dresses,Boho,White,Premium,Autumn,Gown
+223,Women,Young Adult,Casual,Outerwear,Chic,Green,Medium,Summer,Cardigan
+224,Men,Adult,Office,Shirts,Smart Casual,Red,Medium,Winter,Linen Shirt
+225,Women,Young Adult,Party,Tops,Minimal,Black,Low,All Season,Tunic
+226,Men,Teen,Casual,Bottomwear,Minimal,Beige,Medium,Autumn,Trousers
+227,Women,Young Adult,Office,Ethnic Wear,Ethnic,Maroon,Medium,All Season,Saree
+228,Men,Adult,Office,Outerwear,Streetwear,Red,Premium,All Season,Jacket
+229,Men,Adult,College,Bottomwear,Sporty,Green,Medium,Monsoon,Jeans
+230,Women,Young Adult,Wedding,Dresses,Boho,Green,Low,Autumn,Midi Dress
+231,Women,Adult,Office,Ethnic Wear,Traditional,Grey,Premium,Winter,Salwar Suit
+232,Women,Teen,Casual,Ethnic Wear,Traditional,Olive,Medium,Winter,Salwar Suit
+233,Women,Young Adult,Winterwear,Outerwear,Smart Casual,Lavender,Premium,Autumn,Shrug
+234,Men,Young Adult,Wedding,Shirts,Formal,Black,Medium,Autumn,Linen Shirt
+235,Men,Teen,Traditional,Ethnic Wear,Ethnic,Lavender,Premium,Monsoon,Sherwani
+236,Men,Adult,Vacation,Shirts,Streetwear,White,Medium,Autumn,Printed Shirt
+237,Women,Teen,Party,Tops,Chic,Navy,Medium,Spring,Shirt
+238,Women,Teen,Office,Outerwear,Smart Casual,Yellow,Medium,Autumn,Sweater
+239,Men,Adult,Travel,Bottomwear,Minimal,Teal,Medium,Winter,Shorts
+240,Women,Young Adult,Casual,Ethnic Wear,Elegant,Green,Premium,Autumn,Kurta Set
+241,Men,Adult,College,T-Shirts,Minimal,Teal,Medium,All Season,Crew Neck Tee
+242,Men,Adult,Casual,T-Shirts,Sporty,Maroon,Low,Autumn,Graphic Tee
+243,Women,Young Adult,Office,Ethnic Wear,Traditional,Grey,Low,All Season,Lehenga
+244,Men,Adult,Wedding,Ethnic Wear,Fusion,Olive,Medium,All Season,Kurta Set
+245,Women,Young Adult,Casual,Ethnic Wear,Fusion,Teal,Premium,Monsoon,Anarkali
+246,Women,Teen,Casual,Bottomwear,Streetwear,Black,Medium,Spring,Jeans
+247,Women,Teen,Travel,Outerwear,Minimal,Maroon,Medium,Winter,Jacket
+248,Men,Young Adult,Office,Bottomwear,Smart Casual,Grey,Premium,Summer,Chinos
+249,Men,Young Adult,Vacation,Shirts,Formal,Navy,Low,Autumn,Casual Shirt
+250,Women,Teen,Office,Ethnic Wear,Traditional,Olive,Premium,Spring,Lehenga
+251,Women,Teen,Party,Dresses,Chic,Green,Low,All Season,Bodycon Dress
+252,Women,Adult,Office,Ethnic Wear,Traditional,Grey,Premium,Winter,Salwar Suit
+253,Men,Adult,Vacation,Shirts,Streetwear,Peach,Medium,Autumn,Printed Shirt
+254,Women,Teen,Travel,Outerwear,Minimal,Purple,Premium,Monsoon,Blazer
+255,Women,Young Adult,Casual,Ethnic Wear,Ethnic,Green,Premium,Monsoon,Saree
+256,Men,Young Adult,Wedding,Ethnic Wear,Fusion,Brown,Premium,Summer,Sherwani
+257,Women,Young Adult,Casual,Ethnic Wear,Elegant,Maroon,Premium,Summer,Lehenga
+258,Men,Young Adult,Travel,T-Shirts,Sporty,Turquoise,Low,Summer,Henley T-Shirt
+259,Men,Teen,Party,Shirts,Smart Casual,Peach,Medium,Monsoon,Printed Shirt
+260,Women,Young Adult,Wedding,Dresses,Chic,Beige,Premium,Summer,Gown
+261,Men,Adult,Office,Shirts,Streetwear,Navy,Medium,Summer,Printed Shirt
+262,Men,Young Adult,Office,Bottomwear,Streetwear,Brown,Medium,Monsoon,Chinos
+263,Women,Adult,Wedding,Dresses,Minimal,Beige,Premium,All Season,Bodycon Dress
+264,Unisex,Adult,Gym,Activewear,Sporty,Brown,Low,Winter,Training Tee
+265,Women,Young Adult,Party,Dresses,Glam,Grey,Premium,All Season,Wrap Dress
+266,Men,Teen,Wedding,Ethnic Wear,Traditional,Beige,Medium,Winter,Sherwani
+267,Men,Young Adult,Party,Shirts,Smart Casual,Red,Premium,Spring,Linen Shirt
+268,Women,Adult,Casual,Tops,Western,Navy,Low,Spring,Crop Top
+269,Women,Young Adult,Casual,Ethnic Wear,Fusion,Grey,Premium,Winter,Kurta Set
+270,Men,Teen,College,T-Shirts,Streetwear,Brown,Medium,Spring,Henley T-Shirt
+271,Women,Teen,Casual,Bottomwear,Streetwear,Orange,Low,Spring,Shorts
+272,Men,Teen,Traditional,Ethnic Wear,Elegant,Purple,Medium,Monsoon,Nehru Jacket
+273,Men,Young Adult,Vacation,Shirts,Formal,Maroon,Low,Autumn,Linen Shirt
+274,Men,Adult,Office,Shirts,Streetwear,Mustard,Medium,Autumn,Formal Shirt
+275,Men,Young Adult,Travel,T-Shirts,Minimal,Olive,Low,Spring,Henley T-Shirt
+276,Men,Young Adult,Gym,Bottomwear,Sporty,Teal,Medium,Spring,Joggers
+277,Women,Teen,Festive,Ethnic Wear,Ethnic,Beige,Premium,Spring,Kurta
+278,Men,Young Adult,Casual,Outerwear,Streetwear,White,Premium,Summer,Hoodie
+279,Men,Young Adult,Office,Bottomwear,Streetwear,Purple,Medium,Winter,Joggers
+280,Women,Young Adult,Office,Outerwear,Minimal,Pink,Medium,Summer,Cardigan
+281,Women,Teen,Party,Tops,Chic,Turquoise,Low,Summer,Shirt
+282,Women,Teen,Festive,Dresses,Boho,Peach,Medium,Winter,Wrap Dress
+283,Women,Young Adult,Office,Outerwear,Minimal,Red,Medium,Autumn,Shrug
+284,Men,Adult,Vacation,Shirts,Formal,Peach,Low,Monsoon,Oxford Shirt
+285,Unisex,Adult,Casual,Activewear,Minimal,Mustard,Medium,Summer,Running Jacket
+286,Women,Teen,Party,Tops,Western,Navy,Medium,All Season,Crop Top
+287,Men,Adult,Office,Shirts,Smart Casual,Teal,Low,Monsoon,Casual Shirt
+288,Women,Teen,Wedding,Dresses,Chic,Yellow,Premium,Spring,Bodycon Dress
+289,Men,Young Adult,Party,Shirts,Smart Casual,Pink,Medium,Winter,Formal Shirt
+290,Men,Teen,Casual,Shirts,Formal,Mustard,Medium,Autumn,Printed Shirt
+291,Women,Adult,Casual,Ethnic Wear,Ethnic,Maroon,Premium,All Season,Salwar Suit
+292,Women,Adult,Office,Ethnic Wear,Ethnic,Teal,Premium,Spring,Kurta
+293,Women,Teen,Casual,Tops,Minimal,Teal,Low,Winter,Kurti Top
+294,Men,Adult,College,T-Shirts,Sporty,Turquoise,Low,Monsoon,Oversized Tee
+295,Women,Adult,Vacation,Tops,Chic,Mustard,Medium,All Season,Shirt
+296,Women,Young Adult,Vacation,Dresses,Glam,Mustard,Medium,Autumn,Maxi Dress
+297,Women,Adult,Casual,Tops,Western,Turquoise,Medium,Autumn,Kurti Top
+298,Women,Teen,Party,Tops,Western,Mustard,Low,Monsoon,Shirt
+299,Women,Young Adult,Travel,Outerwear,Streetwear,Lavender,Medium,Monsoon,Blazer
+300,Women,Adult,Casual,Dresses,Chic,Teal,Medium,All Season,Gown
